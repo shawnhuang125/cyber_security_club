@@ -4,8 +4,7 @@
 |--|--|--|--|
 |TCP/IP課程|時段一|網路基礎架構,封包基礎內容|[TCP/IP造訪入口]()|
 |CTFd搶旗大賽|時段二||[CTFd造訪入口](https://github.com/shawnhuang125/CTFd)|
-|DVWA課程|時段三||[DVWA造訪入口]()|
-|進階課程-封包分析實戰|時段四||[封包分析實戰造訪入口]()|
+
 ## 外部資源
 - [CTFd造訪入口](https://github.com/shawnhuang125/CTFd)
 ## 學習成果繳交方式
