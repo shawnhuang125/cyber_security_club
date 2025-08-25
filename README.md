@@ -3,7 +3,7 @@
 |課程名稱|時間|你將學到|課程入口|
 |--|--|--|--|
 |TCP/IP課程|時段一|網路基礎架構,封包基礎內容|[TCP/IP造訪入口]()|
-|CTFd搶旗大賽|時段二||[CTFd造訪入口](https://github.com/shawnhuang125/CTFd)|
+|CTFd搶旗大賽|時段二|隱寫術,linux指令,封包分析,web應用漏洞,編碼|[CTFd造訪入口](https://github.com/shawnhuang125/CTFd)|
 
 ## 學習成果繳交方式
 - 請使用OBS錄製操作影片
