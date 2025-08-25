@@ -12,7 +12,7 @@
 - 影片連結貼到LINE群組聊天室的記事本留言區
 
 ## 外部連結
-- [VitualBox](https://www.virtualbox.org/wiki/Downloads)
+- [Kali OVA下載]()
 - [OBS Download](https://obsproject.com/download)
 
 ## 課程問卷
